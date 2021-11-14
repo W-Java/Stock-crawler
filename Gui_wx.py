@@ -7,7 +7,6 @@ import pandas as pd
 from selenium import webdriver
 from db_connect import InsertData
 
-
 class Frame2(wx.Frame):
     num = ''
     def __init__(self):
